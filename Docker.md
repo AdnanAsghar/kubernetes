@@ -1,5 +1,8 @@
 # Docker
 
+## Running a container with Docker
+```$ docker run <image>```
+  
 ## Running a Hello world container with Docker
 ```$ docker run busybox echo "Hello World```
 
